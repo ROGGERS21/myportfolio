@@ -6,6 +6,7 @@
   "author": "DevCRUD",
   "scripts": {
     "start": "gulp"
+  
   },
   "devDependencies": {
     "browser-sync": "^2.26.3",
